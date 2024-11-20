@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Madelynn Gorton",
+    "section": "",
+    "text": "A little bit about me and my life."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Madelynn Gorton",
+    "section": "Education",
+    "text": "Education\nBaylor University, Waco | Texas | Aug 2022 - May 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Madelynn Gorton",
+    "section": "Experience",
+    "text": "Experience\nWorkplace | Job title | April 20XX - present"
+  }
+]
